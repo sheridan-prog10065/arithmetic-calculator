@@ -1,4 +1,4 @@
-﻿namespace MathOperators;
+﻿namespace MathCalculator;
 
 public partial class AppShell : Shell
 {

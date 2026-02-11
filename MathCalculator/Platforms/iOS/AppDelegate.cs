@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MathOperators;
+namespace MathCalculator;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

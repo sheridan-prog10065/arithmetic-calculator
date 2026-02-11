@@ -1,4 +1,4 @@
-﻿namespace MathOperators;
+﻿namespace MathCalculator;
 
 public static class MauiProgram
 {
